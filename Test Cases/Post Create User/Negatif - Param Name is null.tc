@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negatif - Param Name is null</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ffbd1bd-9717-49a6-bfa2-5ca7dd151798</testCaseGuid>
+</TestCaseEntity>
