@@ -31,4 +31,4 @@ WS.verifyElementPropertyValue(response, 'data[0].last_name', 'Lawson')
 
 WS.verifyElementPropertyValue(response, 'data[0].avatar', 'https://reqres.in/img/faces/7-image.jpg')
 
-//update git
+//update git create new branch test2
